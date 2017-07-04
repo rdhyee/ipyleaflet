@@ -1,7 +1,6 @@
 name: ipyleaflet
 channels:
   - conda-forge
-  - nodefaults
 dependencies:
   - ipyleaflet
   - matplotlib
